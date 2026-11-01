@@ -1,0 +1,3 @@
+- [x] Display the nine supplied credentials in a grid and verify desktop and phone layouts.
+- [x] Slow the flowing animation and tap ripples.
+- [x] Replace header and footer wordmarks with the uploaded Crowden logo and verify both.
